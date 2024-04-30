@@ -10,7 +10,7 @@ In the vast landscape of software development, showcasing your projects is not j
 
 ### Why GitHub Pages?
 
-# GitHub Pages offers developers a straightforward way to showcase their projects and portfolios:
+### GitHub Pages offers developers a straightforward way to showcase their projects and portfolios:
 
 1. **Seamless Integration**: Since GitHub Pages is directly integrated with GitHub repositories, deploying your projects is as simple as pushing your code to a designated branch.
 
