@@ -1,7 +1,3 @@
----
-title: Unleash Your Creativity with GitHub Pages: A Beginner's Guide
-date: 2024-04-30
----
 
 # Title: Unleash Your Creativity with GitHub Pages: A Beginner's Guide
 
